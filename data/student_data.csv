@@ -1,0 +1,11 @@
+Student_ID,Department,Year,Attendance,Internal_Marks,Semester_Marks,Backlogs,Placement
+S001,CSE,3,92,85,88,0,Yes
+S002,ECE,3,76,72,70,1,No
+S003,CSE,2,95,91,93,0,Yes
+S004,EEE,4,68,65,61,2,No
+S005,CSE,4,88,82,85,0,Yes
+S006,ECE,2,81,76,79,0,Yes
+S007,EEE,3,73,69,68,1,No
+S008,CSE,3,90,87,91,0,Yes
+S009,ECE,4,67,62,65,2,No
+S010,CSE,2,85,79,82,0,Yes
